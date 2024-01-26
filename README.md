@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 im Titi
+### About me
+<p>Im a grade 11 student, with the goal to be the best coder of all time, I used to play in the NBA, I was on the Miami Heat. I retired from the NBA to pursue a career in computer science.</p>
+
+<li>💖Liam Cale is my bff</li>
+<li></li>
+
 
 <!--
 **tk2neat/tk2neat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
